@@ -9,10 +9,10 @@
 
 Follow me:
 
-<a href="https://www.linkedin.com/in/elizeucouto/">
+<a href="https://www.linkedin.com/in/elizeucouto/" target="_blank">
 <img align="left' alt="LinkedIn" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617831798~hmac=6bce53abd1a9d66264eb3db86ceb4f9e" width="25">
 </a>
 
-<a href="https://www.instagram.com/elizeu._couto/">
+<a href="https://www.instagram.com/elizeu._couto/" target="_blank">
 <img align="left" alt="Instagram" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1617850549~hmac=f762f3dfa47a19bc08bc5693b7904ad7" width="25">
 </a>
