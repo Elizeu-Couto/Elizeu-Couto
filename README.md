@@ -14,5 +14,5 @@ Follow me:
 </a>
 
 <a href="https://www.instagram.com/elizeu._couto/" target="_blank">
-<img align="left" alt="Instagram" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1617850549~hmac=f762f3dfa47a19bc08bc5693b7904ad7" width="25">
+<img align="left" alt="Instagram" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1618692119~hmac=870a83b26c703faac2f8032420466070" width="25">
 </a>
